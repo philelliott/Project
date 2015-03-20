@@ -61,7 +61,7 @@ public class AssignedSchedule implements Serializable {
     }
     
     public  void addSection(Section section){
-        
+        //some comments
     }
     
     public void deleteSection(Section section){
